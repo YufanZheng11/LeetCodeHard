@@ -1,5 +1,4 @@
 """
-
 https://leetcode.com/problems/dungeon-game/
 
 The demons had captured the princess and imprisoned her in the bottom-right corner of a dungeon.
