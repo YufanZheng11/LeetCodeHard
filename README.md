@@ -5,6 +5,6 @@
 
 | Question | Solution | Category |
 | :---- | :---- | :---- |
-| [0164](https://leetcode.com/problems/maximum-gap/) | [0164_Maximum_Gap.py](0164_Maximum_Gap.py) | Bucket Sort |
-| [0174](https://leetcode.com/problems/dungeon-game/) | [0174_Dungeon_Game.py](0174_Dungeon_Game.py) | Dynamic Programming |
-| [0188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [0188_Best_Time_to_Buy_and_Sell_Stock_IV.py](0188_Best_Time_to_Buy_and_Sell_Stock_IV.py) | Dynamic Programming |
+| [0164](https://leetcode.com/problems/maximum-gap/) | [Maximum_Gap.py](0164_Maximum_Gap.py) | Bucket Sort |
+| [0174](https://leetcode.com/problems/dungeon-game/) | [Dungeon_Game.py](0174_Dungeon_Game.py) | Dynamic Programming |
+| [0188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Best_Time_to_Buy_and_Sell_Stock_IV.py](0188_Best_Time_to_Buy_and_Sell_Stock_IV.py) | Dynamic Programming |
